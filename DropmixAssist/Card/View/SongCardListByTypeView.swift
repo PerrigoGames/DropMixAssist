@@ -18,7 +18,7 @@ struct SongCardListByTypeView: View {
   }
   
   var body: some View {
-    VStack(alignment: .leading) {
+    VStack(spacing: 0) {
       ScrollView {
         LazyVStack {
           ForEach(filtered(), id: \.self) {
@@ -27,23 +27,26 @@ struct SongCardListByTypeView: View {
           }
         }
       }
-      Text("Type Filter")
-        .font(.footnote)
-      HStack {
-        let cardType = CardType.allCases[Int(typeValue)]
-        Toggle("", isOn: $typeToggle)
-          .labelsHidden()
-        Text(cardType.rawValue)
-          .bold()
-          .frame(width: 60)
-          .foregroundColor(cardType.color())
-          .background(Color(white: 0, opacity: 0.5))
-        Slider(
-          value: $typeValue,
-          in: 0 ... Double(CardType.allCases.count - 1),
-          step: 1
-        ).padding(.leading, 2)
+      Divider()
+      VStack(alignment: .leading) {
+        Text("Type Filter")
+          .font(.footnote)
+        HStack {
+          let cardType = CardType.allCases[Int(typeValue)]
+          Toggle("", isOn: $typeToggle)
+            .labelsHidden()
+          Text(cardType.rawValue)
+            .bold()
+            .frame(width: 60)
+            .foregroundColor(cardType.color())
+          Slider(
+            value: $typeValue,
+            in: 0 ... Double(CardType.allCases.count - 1),
+            step: 1
+          ).padding(.leading, 2)
+        }
       }
+      .padding()
     }
   }
 }

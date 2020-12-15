@@ -24,7 +24,7 @@ struct SongListByKeyView: View {
   }
   
   var body: some View {
-    VStack {
+    VStack(spacing: 0) {
       ScrollView {
         LazyVStack {
           ForEach(filtered(), id: \.self) {
@@ -33,6 +33,7 @@ struct SongListByKeyView: View {
           }
         }
       }
+      Divider()
       VStack(alignment: .leading) {
         Text("Key Filter")
           .font(.footnote)
