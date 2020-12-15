@@ -28,7 +28,7 @@ struct ContentView: View {
         Text("Title")
       }
       
-      SongCardListView(
+      SongCardListByTypeView(
         sortedList: cardsSortedByType()
       ).tabItem {
         Image(systemName: "play")

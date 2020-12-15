@@ -6,5 +6,5 @@ This is an iOS app designed to quickly sort and filter information about the car
 The app offers the following screens:
 - Sort all songs by **Artist**
 - Sort all songs by **Song Title**
-- Sort all cards by **Card Type**
-- Sort AND filter cards by **Key**
+- Sort AND Filter all cards by **Card Type**
+- Sort AND Filter cards by **Key**
