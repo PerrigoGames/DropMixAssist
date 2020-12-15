@@ -1,0 +1,1880 @@
+[
+    {
+        "artist": "5 Bladed",
+        "title": "Grimetime",
+        "style": "Dance/Electronic",
+        "bpm": 143,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" },
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" }
+        ]
+    },
+    {
+        "artist": "A Clutch of Heart Shards",
+        "title": "In Honor Of...",
+        "style": "Rock, Pop",
+        "bpm": 132,
+        "key": "B Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Ouroboros" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
+            { "level": 2,	"type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+        ]
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "title": "Scenario",
+        "style": "Hip-Hop/Rap",
+        "bpm": 102,
+        "key": "A Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Highness" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "Afrojack",
+        "title": "Take Over Control",
+        "style": "Dance/Electronic",
+        "bpm": 130,
+        "key": "C Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Chiller" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+        ]
+    },
+    {
+        "artist": "Altar State",
+        "title": "This One Not That One",
+        "style": "Dance/Electronic",
+        "bpm": 128,
+        "key": "E Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+        ]
+    },
+    {
+        "artist": "Ana Tijoux",
+        "title": "1977",
+        "style": "Latin",
+        "bpm": 104,
+        "key": "D Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
+            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+        "artist": "Anderson .PAAK",
+        "title": "Am I Wrong (Ft. Schoolboy Q)",
+        "style": "R&B, Hip-Hop/Rap",
+        "bpm": 115,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "Axwell /\\ Ingrosso",
+        "title": "More Than You Know",
+        "style": "Dance/Electronic",
+        "bpm": 123,
+        "key": "F Minor",
+        "cards": [
+          { "level": 3,	"type": "Lead", "instruments": [ "Vocals" ], "playlist":	"Phase" },
+          { "level": 1,	"type": "Beat", "instruments": [ "Drums" ], "playlist":	"Phase" },
+          { "level": 2,	"type": "Bass", "instruments": [ "Guitar" ], "playlist":	"Fantastic" },
+          { "level": 3,	"type": "Loop", "instruments": [ "Guitar" ], "playlist":	"Fantastic" }
+        ]
+    },
+    {
+        "artist": "BABYMETAL",
+        "title": "Gimme Chocolate!!",
+        "style": "Rock",
+        "bpm": 110,
+        "key": "E Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Instinct" },
+          { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+        "artist": "Baha Men",
+        "title": "Who Let The Dogs Out",
+        "style": "Pop",
+        "bpm": 130,
+        "key": "C Major",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Bastille",
+        "title": "Pompeii",
+        "style": "Pop, Rock",
+        "bpm": 128,
+        "key": "A Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" },
+          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+        ]
+    },
+    {
+        "artist": "Beast Business",
+        "title": "Royce Please",
+        "style": "Hip-Hop/Rap",
+        "bpm": 150,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "City" },
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
+          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Bell Biv Devoe",
+        "title": "Poison",
+        "style": "R&B",
+        "bpm": 112,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
+          { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fever" }
+        ]
+    },
+    {
+        "artist": "Benny Benassi presents The Biz",
+        "title": "Satisfaction",
+        "style": "Dance/Electronic",
+        "bpm": 130,
+        "key": "Bb Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Sampler", "Synths", "Drums", "Synths" ], "playlist": "Phase" }
+        ]
+    },
+    {
+        "artist": "Big & Rich",
+        "title": "Save A Horse (Ride A Cowboy)",
+        "style": "Country",
+        "bpm": 102,
+        "key": "E Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Lucky" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+        ]
+    },
+    {
+        "artist": "Bignums",
+        "title": "Larry's Place (Part II)",
+        "style": "Hip-Hop/Rap",
+        "bpm": 150,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" },
+            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Mirrors" }
+        ]
+    },
+    {
+        "artist": "Billzantium",
+        "title": "Wishin' I Had It Now",
+        "style": "Dance/Electronic",
+        "bpm": 150,
+        "key": "G Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
+            { "level": 1, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Puff" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+        ]
+    },
+    {
+        "artist": "Black Astrolabe",
+        "title": "Parabola",
+        "style": "Rock",
+        "bpm": 110,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Hightower" }
+        ]
+    },
+    {
+        "artist": "Blanks",
+        "title": "Hart and 12th",
+        "style": "Dance/Electronic",
+        "bpm": 130,
+        "key": "Bb Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+        ]
+    },
+    {
+        "artist": "Blink-182",
+        "title": "All The Small Things",
+        "style": "Rock, Pop",
+        "bpm": 148,
+        "key": "C Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Ouroboros" }
+        ]
+    },
+    {
+        "artist": "Blondie",
+        "title": "Heart of Glass",
+        "style": "Rock",
+        "bpm": 115,
+        "key": "E Major",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fantastic" }
+        ]
+    },
+    {
+        "artist": "Boot Steel",
+        "title": "Rowdier The Better",
+        "style": "Country, Pop",
+        "bpm": 99,
+        "key": "E Major",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+        ]
+    },
+    {
+        "artist": "Brain Beater",
+        "title": "Power Sick",
+        "style": "Dance/Electronic",
+        "bpm": 130,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+        "artist": "Bruno Mars",
+        "title": "24K Magic",
+        "style": "Pop, R&B",
+        "bpm": 107,
+        "key": "F Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Sweets" }
+        ]
+    },
+    {
+        "artist": "Bullwheel",
+        "title": "Atomic Handbrake",
+        "style": "Hip-Hop/Rap",
+        "bpm": 129,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Horns" ], "playlist": "Mirrors" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Mirrors" }
+        ]
+    },
+    {
+        "artist": "Cake",
+        "title": "Short Skirt Long Jacket",
+        "style": "Rock",
+        "bpm": 120,
+        "key": "D Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
+            { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Blade" }
+        ]
+    },
+    {
+        "artist": "Candy Kettles",
+        "title": "Dexting",
+        "style": "Pop, Dance/Electronic",
+        "bpm": 145,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
+            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Derby" }
+        ]
+    },
+    {
+        "artist": "Carly Rae Jepsen",
+        "title": "Call Me Maybe",
+        "style": "Pop",
+        "bpm": 120,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Sweets" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Sweets" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Fever" }
+        ]
+    },
+    {
+        "artist": "Carrie Underwood",
+        "title": "Blown Away",
+        "style": "Country, Pop",
+        "bpm": 137,
+        "key": "A Minor",
+        "cards": [
+          { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" },
+            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Strings", "Drums", "Synths" ], "playlist": "Lucky" }
+        ]
+    },
+    {
+        "artist": "Charlie Puth",
+        "title": "Attention",
+        "style": "Pop",
+        "bpm": 100,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Rhymer" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Instinct" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+        "artist": "Charm Syndicate",
+        "title": "All Frazzled",
+        "style": "Hip-Hop/Rap",
+        "bpm": 87,
+        "key": "B Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
+            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "Childish Gambino",
+        "title": "Heartbeat",
+        "style": "Hip-Hop/Rap, R&B",
+        "bpm": 120,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "CHVRCHES",
+        "title": "The Mother We Share",
+        "style": "Dance/Electronic",
+        "bpm": 87,
+        "key": "Db Major",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Puff" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+        ]
+    },
+    {
+        "artist": "Commodores",
+        "title": "Brick House",
+        "style": "R&B",
+        "bpm": 106,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Fever" }
+        ]
+    },
+    {
+        "artist": "Connecticut River Boys",
+        "title": "Didgeridoo Stomp",
+        "style": "Country",
+        "bpm": 120,
+        "key": "Bb Major",
+        "cards": [
+          { "level": 3, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Connecticut River Boys",
+        "title": "Must Be Nice",
+        "style": "Country",
+        "bpm": 120,
+        "key": "G Major",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
+            { "level": 1, "type": "Lead", "instruments": [ "Guitar" ], "playlist": "Moonlight" }
+        ]
+    },
+    {
+      "artist": "Connecticut River Boys",
+      "title": "Up All Night",
+      "style": "Country",
+      "bpm": 110,
+      "key": "A Minor",
+      "cards": [
+        { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Baffler" }
+      ]
+  },
+    {
+        "artist": "Crackcase",
+        "title": "Somatic",
+        "style": "Dance/Electronic",
+        "bpm": 150,
+        "key": "F Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
+            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Astro" }
+        ]
+    },
+    {
+        "artist": "D'Von Riice",
+        "title": "Magneta Benz",
+        "style": "Hip-Hop/Rap",
+        "bpm": 102,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
+            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Rhymer" }
+        ]
+    },
+    {
+        "artist": "Danny Humbles",
+        "title": "Cherry Cordial",
+        "style": "Pop",
+        "bpm": 128,
+        "key": "B Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+        ]
+    },
+    {
+        "artist": "Danny Ocean",
+        "title": "Me Rehúso",
+        "style": "Latin",
+        "bpm": 105,
+        "key": "Db Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Instinct" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Verdant" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+        "artist": "Darren Korb",
+        "title": "Flutter Fly (From The Pyre Original Soundtrack)",
+        "style": "Soundtrack",
+        "bpm": 82,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Horns", "Guitar", "Drums", "Guitar" ], "playlist": "DM" }
+        ]
+    },
+    {
+      "artist": "Davis Franklin",
+      "title": "Beat Boxer",
+      "style": "Hip-Hop/Rap",
+      "bpm": 130,
+      "key": "A Minor",
+      "cards": [
+        { "level": 3, "type": "Beat", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+      ]
+    },
+    {
+        "artist": "Dillzan Madan",
+        "title": "Main Mistar Praim Hoon (I Am Mister Prime)",
+        "style": "Soundtrack, Pop",
+        "bpm": 128,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Rhymer" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Mirrors" }
+        ]
+    },
+    {
+        "artist": "Disturbed",
+        "title": "Down With The Sickness",
+        "style": "Rock",
+        "bpm": 90,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Blade" }
+        ]
+    },
+    {
+        "artist": "DJ Khaled",
+        "title": "All I Do is Win (ft. T-Pain)",
+        "style": "Hip-Hop/Rap",
+        "bpm": 150,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Energy" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "DJ Steve Porter",
+        "title": "Guitek",
+        "style": "Dance/Electronic",
+        "bpm": 123,
+        "key": "Eb Major",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fantastic" }
+        ]
+    },
+    {
+        "artist": "Dolly Parton",
+        "title": "Jolene",
+        "style": "Country",
+        "bpm": 112,
+        "key": "Db Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Moonlight" }
+        ]
+    },
+    {
+        "artist": "Duck Sauce",
+        "title": "Barbra Streisand",
+        "style": "Dance/Electronic",
+        "bpm": 128,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Puff" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+        ]
+    },
+    {
+        "artist": "Earth, Wind and Fire",
+        "title": "September",
+        "style": "R&B, Dance/Electronic",
+        "bpm": 126,
+        "key": "A Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Seer" }
+        ]
+    },
+    {
+        "artist": "Ed Sheeran",
+        "title": "Sing",
+        "style": "Pop, Rock",
+        "bpm": 120,
+        "key": "Ab Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Ouroboros" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Blade" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+        ]
+    },
+    {
+        "artist": "Eddie Japan",
+        "title": "When Things Fall Apart",
+        "style": "Pop",
+        "bpm": 120,
+        "key": "C Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+      "artist": "Edgar Allen Poe",
+      "title": "The Raven",
+      "style": "Dance/Electronic, Pop",
+      "bpm": 115,
+      "key": "A Minor",
+      "cards": [
+        { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+      ]
+  },
+    {
+        "artist": "Ellie Goulding",
+        "title": "Burn",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 150,
+        "key": "Bb Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "EMF",
+        "title": "Unbelievable",
+        "style": "Rock",
+        "bpm": 104,
+        "key": "Ab Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Energy" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "Europe",
+        "title": "The Final Countdown",
+        "style": "Rock",
+        "bpm": 117,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Hightower" }
+        ]
+    },
+    {
+        "artist": "Evanescence",
+        "title": "Bring Me To Life",
+        "style": "Rock",
+        "bpm": 95,
+        "key": "E Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Blade" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Blade" },
+            { "level": 1, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Ouroboros" }
+        ]
+    },
+    {
+        "artist": "Fall Out Boy",
+        "title": "Centuries",
+        "style": "Rock, Pop",
+        "bpm": 88,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Blade" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Socket" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" }
+        ]
+    },
+    {
+        "artist": "Far East Movement",
+        "title": "Like A G6",
+        "style": "Dance/Electronic, Hip-Hop/Rap",
+        "bpm": 125,
+        "key": "G Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Breaker" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
+            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" }
+        ]
+    },
+    {
+        "artist": "Fetty Wap",
+        "title": "679 (ft. Remy Boyz)",
+        "style": "Hip-Hop/Rap",
+        "bpm": 95,
+        "key": "B Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Rhymer" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Rhymer" }
+        ]
+    },
+    {
+        "artist": "Fifth Harmony",
+        "title": "Work From Home",
+        "style": "Pop, R&B",
+        "bpm": 105,
+        "key": "Ab Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Flawless" }
+        ]
+    },
+    {
+        "artist": "Flo Rida",
+        "title": "I Don't Like It, I Love It",
+        "style": "Hip-Hop/Rap, Pop",
+        "bpm": 118,
+        "key": "D Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Breaker" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "Francesca Sonora",
+        "title": "You Didn't But You Had To",
+        "style": "Pop",
+        "bpm": 122,
+        "key": "C Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Fever" },
+            { "level": 1, "type": "Lead", "instruments": [ "Synths" ], "playlist": "Fever" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fever" }
+        ]
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "title": "Take Me Out",
+        "style": "Rock",
+        "bpm": 104,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
+            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Socket" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Socket" }
+        ]
+    },
+    {
+        "artist": "Freda Turner",
+        "title": "Hard Light",
+        "style": "Pop, Dance/Electronic",
+        "bpm": 128,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Dapper" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Derby" }
+        ]
+    },
+    {
+        "artist": "Free Skates",
+        "title": "Don't You Dare",
+        "style": "Hip-Hop/Rap",
+        "bpm": 150,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+        ]
+    },
+    {
+        "artist": "G.I. Joe",
+        "title": "Main Title Theme (Remix)",
+        "style": "Dance/Electronic, Soundtrack",
+        "bpm": 94,
+        "key": "G Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "DM" }
+        ]
+    },
+    {
+        "artist": "Ginuwine",
+        "title": "Pony",
+        "style": "R&B",
+        "bpm": 80,
+        "key": "Db Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Vocals" ], "playlist": "Mirrors" }
+        ]
+    },
+    {
+        "artist": "Gloria Estefan",
+        "title": "Conga",
+        "style": "Latin",
+        "bpm": 122,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Synths" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+        "artist": "Gloria Gaynor",
+        "title": "I Will Survive",
+        "style": "R&B, Dance/Electronic",
+        "bpm": 116,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Derby" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Derby" },
+            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Dapper" }
+        ]
+    },
+    {
+        "artist": "Grant Pike",
+        "title": "If You Get Down",
+        "style": "Pop, R&B",
+        "bpm": 96,
+        "key": "E Major",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Dapper" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
+            { "level": 3, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Dapper" }
+        ]
+    },
+    {
+        "artist": "Haddaway",
+        "title": "What Is Love",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 124,
+        "key": "G Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Fantastic" }
+        ]
+    },
+    {
+        "artist": "Hall & Oates",
+        "title": "I Can't Go For That (No Can Do)",
+        "style": "Rock, Pop",
+        "bpm": 111,
+        "key": "C Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Dapper" }
+        ]
+    },
+    {
+        "artist": "Harmonix Music",
+        "title": "Wipe Out",
+        "style": "Rock",
+        "bpm": 150,
+        "key": "B Major",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Horns" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Harmonix Music",
+        "title": "Baker Street",
+        "style": "Rock",
+        "bpm": 113,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Synths" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Harmonix Music",
+        "title": "Doctor Who Theme",
+        "style": "Soundtrack",
+        "bpm": 139,
+        "key": "E Minor",
+        "cards": [
+          { "level": 3, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Harmonix Music",
+        "title": "Sanford & Son Theme (The Streetbeater)",
+        "style": "R&B, Soundtrack",
+        "bpm": 118,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Imagine Dragons",
+        "title": "Radioactive",
+        "style": "Rock, Pop",
+        "bpm": 137,
+        "key": "B Minor",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Socket" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Hightower" }
+        ]
+    },
+    {
+        "artist": "J.S. Bach",
+        "title": "Cello Suite No. 1 in G Major",
+        "style": "Classical",
+        "bpm": 100,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Jackson Oak",
+        "title": "Submerged",
+        "style": "Rock",
+        "bpm": 145,
+        "key": "A Major",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "James Landino",
+        "title": "Break For Me",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 121,
+        "key": "F Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Chiller" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+        ]
+    },
+    {
+        "artist": "Jamie xx",
+        "title": "Loud Places (ft. Romy)",
+        "style": "Dance/Electronic",
+        "bpm": 109,
+        "key": "Ab Minor",
+        "cards": [
+          { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Phase" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+        ]
+    },
+    {
+        "artist": "Jason Derulo",
+        "title": "Want to Want Me",
+        "style": "Pop, R&B",
+        "bpm": 114,
+        "key": "Eb Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Controller" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Controller" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+        ]
+    },
+    {
+        "artist": "Joliet",
+        "title": "Better Wake Up",
+        "style": "Hip-Hop/Rap",
+        "bpm": 140,
+        "key": "E Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
+            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "Juanes",
+        "title": "La Camisa Negra",
+        "style": "Latin",
+        "bpm": 97,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+      "artist": "Kaskade",
+      "title": "Atmosphere",
+      "style": "Dance/Electronic",
+      "bpm": 123,
+      "key": "A Minor",
+      "cards": [
+        { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Phase" },
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" }
+      ]
+  },
+    {
+        "artist": "Kendrick Lamar",
+        "title": "Humble.",
+        "style": "Hip-Hop/Rap",
+        "bpm": 80,
+        "key": "Ab Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "City" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Kiesza",
+        "title": "Hideaway",
+        "style": "Dance/Electronic",
+        "bpm": 123,
+        "key": "G Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Flora" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "Kool & The Gang",
+        "title": "Jungle Boogie",
+        "style": "R&B, Dance/Electronic",
+        "bpm": 97,
+        "key": "G Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Breaker" }
+        ]
+    },
+    {
+        "artist": "Kurtis Blow",
+        "title": "The Breaks",
+        "style": "Hip-Hop/Rap",
+        "bpm": 114,
+        "key": "B Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Rhymer" }
+        ]
+    },
+    {
+        "artist": "Kyangi 3",
+        "title": "Doki Doki Summer Days",
+        "style": "Soundtrack, Dance/Electronic",
+        "bpm": 140,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+        ]
+    },
+    {
+        "artist": "La Guerra Naranja",
+        "title": "Una Noche Más",
+        "style": "Pop, Latin",
+        "bpm": 96,
+        "key": "F Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fever" }
+        ]
+    },
+    {
+        "artist": "Lady Gaga",
+        "title": "A-Yo",
+        "style": "Pop",
+        "bpm": 150,
+        "key": "A Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Flora" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "LEN",
+        "title": "Steal My Sunshine",
+        "style": "Rock, Hip-Hop/Rap",
+        "bpm": 96,
+        "key": "E Major",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "LMFAO",
+        "title": "Sexy And I Know It",
+        "style": "Dance/Electronic, Hip-Hop/Rap",
+        "bpm": 130,
+        "key": "G Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Controller" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Dapper" }
+        ]
+    },
+    {
+        "artist": "Logic",
+        "title": "Fade Away",
+        "style": "Hip-Hop/Rap",
+        "bpm": 150,
+        "key": "Ab Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Vocals", "Drums", "Vocals" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Lorde",
+        "title": "Green Light",
+        "style": "Pop",
+        "bpm": 129,
+        "key": "A Major",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flora" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "Lossage",
+        "title": "Moon Lab",
+        "style": "Dance/Electronic",
+        "bpm": 107,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Chiller" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
+            { "level": 3, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Chiller" }
+        ]
+    },
+    {
+        "artist": "Lucinda Williams",
+        "title": "Can't Let Go",
+        "style": "Country",
+        "bpm": 94,
+        "key": "G Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" }
+        ]
+    },
+    {
+        "artist": "Ludwig Van Beethoven",
+        "title": "5th Symphony",
+        "style": "Classical",
+        "bpm": 96,
+        "key": "C Minor",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Strings" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Mac Miller",
+        "title": "Dang! (ft. Anderson .Paak)",
+        "style": "Hip-Hop/Rap",
+        "bpm": 108,
+        "key": "C Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Synths" ], "playlist": "Rhymer" }
+        ]
+    },
+    {
+        "artist": "Macrotape",
+        "title": "Barcoded",
+        "style": "Rock, Dance/Electronic",
+        "bpm": 132,
+        "key": "E Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+        ]
+    },
+    {
+        "artist": "Marky Mark & The Funky Bunch",
+        "title": "Good Vibrations",
+        "style": "Hip-Hop/Rap, Pop",
+        "bpm": 122,
+        "key": "Bb Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Dapper" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Dapper" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+        ]
+    },
+    {
+        "artist": "Marlon Kane",
+        "title": "This Is How You Left Me",
+        "style": "R&B",
+        "bpm": 80,
+        "key": "A Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Derby" }
+        ]
+    },
+    {
+        "artist": "Maroon 5",
+        "title": "Moves Like Jagger (ft. Christina Aguilera)",
+        "style": "Pop",
+        "bpm": 128,
+        "key": "B Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Synths" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "Maroon 5",
+        "title": "Animals",
+        "style": "Pop, Rock",
+        "bpm": 95,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+        "artist": "Martin Garrix",
+        "title": "Animals",
+        "style": "Dance/Electronic",
+        "bpm": 128,
+        "key": "F Minor",
+        "cards": [
+          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Meghan Trainor",
+        "title": "All About That Bass",
+        "style": "Pop, R&B",
+        "bpm": 134,
+        "key": "A Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Sweets" }
+        ]
+    },
+    {
+        "artist": "MGMT",
+        "title": "Kids",
+        "style": "Rock, Dance/Electronic",
+        "bpm": 123,
+        "key": "A Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Astro" }
+        ]
+    },
+    {
+        "artist": "Mighty Morphin Power Rangers",
+        "title": "Main Title Theme",
+        "style": "Rock, Soundtrack",
+        "bpm": 94,
+        "key": "E Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "DM" }
+        ]
+    },
+    {
+        "artist": "Miike Snow",
+        "title": "Genghis Khan",
+        "style": "Dance/Electronic",
+        "bpm": 94,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Astro" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+        ]
+    },
+    {
+        "artist": "New Order",
+        "title": "Blue Monday",
+        "style": "Rock, Dance/Electronic",
+        "bpm": 131,
+        "key": "D Minor",
+        "cards": [
+          { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Phase" },
+            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Chiller" }
+        ]
+    },
+    {
+        "artist": "Nick Jonas",
+        "title": "Levels",
+        "style": "Pop",
+        "bpm": 102,
+        "key": "F Major",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "Nightfeels",
+        "title": "Find You",
+        "style": "Rock, Pop",
+        "bpm": 150,
+        "key": "A Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+        ]
+    },
+    {
+        "artist": "ODESZA",
+        "title": "Say My Name",
+        "style": "Dance/Electronic",
+        "bpm": 115,
+        "key": "B Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Chiller" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Astro" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+        ]
+    },
+    {
+        "artist": "Outkast",
+        "title": "Ms. Jackson",
+        "style": "Hip-Hop/Rap",
+        "bpm": 97,
+        "key": "C Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Mirrors" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Mirrors" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+        ]
+    },
+    {
+        "artist": "Pale Shivers",
+        "title": "The Exquisite Corpse",
+        "style": "Rock",
+        "bpm": 128,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Hightower" }
+        ]
+    },
+    {
+        "artist": "Panic! At the Disco",
+        "title": "Emperor's New Clothes",
+        "style": "Rock, Pop",
+        "bpm": 95,
+        "key": "Eb Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Socket" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Ouroboros" },
+            { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Socket" }
+        ]
+    },
+    {
+        "artist": "Paula Abdul",
+        "title": "Straight Up",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 96,
+        "key": "A Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Verdant" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+        "artist": "Paul Van Dyk",
+        "title": "For an Angel (PVD Remix ’09)",
+        "style": "Dance/Electronic",
+        "bpm": 132,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Phase" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+        ]
+    },
+    {
+        "artist": "Pinhole Cage",
+        "title": "Just About To Snap",
+        "style": "Rock",
+        "bpm": 120,
+        "key": "D Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Socket" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Socket" }
+        ]
+    },
+    {
+        "artist": "Pitbull",
+        "title": "Fireball (ft. John Ryan)",
+        "style": "Latin, Pop",
+        "bpm": 123,
+        "key": "F Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Verdant" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Verdant" },
+            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Poison",
+        "title": "Every Rose Has Its Thorn",
+        "style": "Rock",
+        "bpm": 82,
+        "key": "Gb Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Lucky" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Moonlight" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Moonlight" }
+        ]
+    },
+    {
+        "artist": "Prince Royce",
+        "title": "Darte Un Beso",
+        "style": "Latin",
+        "bpm": 140,
+        "key": "E Major",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Verdant" }
+        ]
+    },
+    {
+        "artist": "Pseudoprime",
+        "title": "Laser Dome",
+        "style": "Dance/Electronic",
+        "bpm": 126,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "PSY",
+        "title": "Gangnam Style",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 132,
+        "key": "B Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Instinct" }
+        ]
+    },
+    {
+        "artist": "Qufu",
+        "title": "Gravity Assist",
+        "style": "Dance/Electronic",
+        "bpm": 97,
+        "key": "G Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "Rick James",
+        "title": "Super Freak",
+        "style": "Dance/Electronic, R&B",
+        "bpm": 132,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Fantastic" },
+            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Derby" }
+        ]
+    },
+    {
+        "artist": "Ricky Martin",
+        "title": "La Mordidita (Ft. Yotuel)",
+        "style": "Latin, Pop",
+        "bpm": 142,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Fever" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fever" },
+            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Sweets" }
+        ]
+    },
+    {
+        "artist": "Righteous Palms Crew",
+        "title": "Take U 4 A Ride",
+        "style": "Pop, Dance/Electronic",
+        "bpm": 135,
+        "key": "A Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Seer" },
+            { "level": 1, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Seer" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" }
+        ]
+    },
+    {
+        "artist": "Run DMC",
+        "title": "It's Tricky",
+        "style": "Hip-Hop/Rap",
+        "bpm": 128,
+        "key": "F Minor",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Seer" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Seer" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "Salt-N-Pepa",
+        "title": "Push It",
+        "style": "Hip-Hop/Rap",
+        "bpm": 130,
+        "key": "A Minor",
+        "cards": [
+          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Mirrors" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Mirrors" }
+        ]
+    },
+    {
+        "artist": "Sam Hunt",
+        "title": "House Party",
+        "style": "Country, Pop",
+        "bpm": 104,
+        "key": "Eb Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Sweets" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Moonlight" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+        ]
+    },
+    {
+        "artist": "ScHoolboy Q",
+        "title": "Man of the Year",
+        "style": "Hip-Hop/Rap",
+        "bpm": 112,
+        "key": "G Minor",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Rhymer" },
+            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Rhymer" }
+        ]
+    },
+    {
+        "artist": "Sean Paul",
+        "title": "Temperature",
+        "style": "Reggae/Reggaeton, Hip-Hop/Rap",
+        "bpm": 125,
+        "key": "Bb Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Seer" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Highness" }
+        ]
+    },
+    {
+        "artist": "Sia",
+        "title": "Chandelier",
+        "style": "Pop",
+        "bpm": 87,
+        "key": "Db Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Derby" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Sweets" },
+            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Sweets" }
+        ]
+    },
+    {
+        "artist": "Sia",
+        "title": "Cheap Thrills (ft. Sean Paul)",
+        "style": "Pop",
+        "bpm": 90,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Fantastic" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fantastic" }
+        ]
+    },
+    {
+        "artist": "Skrewbert",
+        "title": "The Game Got You",
+        "style": "Dance/Electronic",
+        "bpm": 150,
+        "key": "Gb Minor",
+        "cards": [
+          { "level": 2, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Socket" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "Skrillex",
+        "title": "Bangarang",
+        "style": "Dance/Electronic",
+        "bpm": 110,
+        "key": "G Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Synths" ], "playlist": "Controller" }
+        ]
+    },
+    {
+        "artist": "Soft Cell",
+        "title": "Tainted Love",
+        "style": "Pop",
+        "bpm": 145,
+        "key": "G Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fantastic" }
+        ]
+    },
+    {
+        "artist": "Some Lover",
+        "title": "Days Ahead, Days Behind",
+        "style": "Country, Rock",
+        "bpm": 124,
+        "key": "C Major",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Moonlight" }
+        ]
+    },
+    {
+        "artist": "Soulja Boy Tell 'Em",
+        "title": "Crank That (Soulja Boy)",
+        "style": "Hip-Hop/Rap",
+        "bpm": 140,
+        "key": "C Minor",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "City" },
+            { "level": 1, "type": "Loop", "instruments": [ "Drums" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Spectral Interference",
+        "title": "Slackjaw",
+        "style": "Dance/Electronic",
+        "bpm": 128,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
+            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "City" }
+        ]
+    },
+    {
+        "artist": "Technotronic",
+        "title": "Pump Up The Jam",
+        "style": "Dance/Electronic",
+        "bpm": 128,
+        "key": "C Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Bomb" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "The Black Eyed Peas",
+        "title": "Boom Boom Pow",
+        "style": "Pop, Hip-Hop/Rap",
+        "bpm": 130,
+        "key": "A Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
+            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "The Chainsmokers",
+        "title": "Closer",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 95,
+        "key": "F Minor",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Astro" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Controller" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Controller" }
+        ]
+    },
+    {
+        "artist": "The Jackson 5",
+        "title": "I Want You Back",
+        "style": "R&B, Pop",
+        "bpm": 98,
+        "key": "Ab Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Seer" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Derby" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Derby" }
+        ]
+    },
+    {
+        "artist": "The Last Cavallard",
+        "title": "Abilene And Down",
+        "style": "Country",
+        "bpm": 118,
+        "key": "C Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Lucky" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+        ]
+    },
+    {
+        "artist": "The Lingala Sound",
+        "title": "Crystal Beach",
+        "style": "Pop, Dance/Electronic",
+        "bpm": 110,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Sweets" }
+        ]
+    },
+    {
+        "artist": "The Sweep Oars",
+        "title": "Loss Leader",
+        "style": "Dance/Electronic",
+        "bpm": 94,
+        "key": "A Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "The Terahertz Gap",
+        "title": "Interlace",
+        "style": "Dance/Electronic",
+        "bpm": 97,
+        "key": "Gb Major",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "The Transformers",
+        "title": "Main Title Song",
+        "style": "Soundtrack, Dance/Electronic",
+        "bpm": 85,
+        "key": "D Minor",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "DM" }
+        ]
+    },
+    {
+        "artist": "The Venona Project",
+        "title": "Fermionic",
+        "style": "Dance/Electronic",
+        "bpm": 150,
+        "key": "D Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Astro" },
+            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
+            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+        ]
+    },
+    {
+        "artist": "The Weeknd",
+        "title": "Can't Feel My Face",
+        "style": "R&B, Pop",
+        "bpm": 108,
+        "key": "A Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Highness" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Highness" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "Tiny Taps",
+        "title": "Dead Metrocard",
+        "style": "Dance/Electronic",
+        "bpm": 144,
+        "key": "E Minor",
+        "cards": [
+          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+        ]
+    },
+    {
+        "artist": "TLC",
+        "title": "No Scrubs",
+        "style": "R&B, Pop",
+        "bpm": 93,
+        "key": "Ab Minor",
+        "cards": [
+          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Breaker" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flawless" },
+            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flawless" }
+        ]
+    },
+    {
+        "artist": "Vampire Weekend",
+        "title": "A-Punk",
+        "style": "Rock",
+        "bpm": 88,
+        "key": "D Major",
+        "cards": [
+          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Socket" }
+        ]
+    },
+    {
+        "artist": "Vanessa Carlton",
+        "title": "A Thousand Miles",
+        "style": "Pop",
+        "bpm": 95,
+        "key": "B Major",
+        "cards": [
+          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Baffler" }
+        ]
+    },
+    {
+        "artist": "Victoria Chance",
+        "title": "Theme From Broken Protocol",
+        "style": "Soundtrack, Classical",
+        "bpm": 145,
+        "key": "A Minor",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Bomb" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
+            { "level": 1, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Bomb" }
+        ]
+    },
+    {
+        "artist": "Walk the Moon",
+        "title": "Shut Up And Dance",
+        "style": "Rock, Pop",
+        "bpm": 128,
+        "key": "Db Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Fever" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Ouroboros" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+        ]
+    },
+    {
+        "artist": "Warlords of the Old West",
+        "title": "Strychnine Baby",
+        "style": "Rock",
+        "bpm": 140,
+        "key": "D Minor",
+        "cards": [
+          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
+            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+        ]
+    },
+    {
+        "artist": "Weezer",
+        "title": "King of the World",
+        "style": "Rock, Pop",
+        "bpm": 80,
+        "key": "Gb Major",
+        "cards": [
+          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
+            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
+            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
+            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+        ]
+    },
+    {
+        "artist": "Will.I.Am",
+        "title": "Scream & Shout (ft. Britney Spears)",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 130,
+        "key": "G Minor",
+        "cards": [
+          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Energy" },
+            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+        ]
+    },
+    {
+        "artist": "Winnage",
+        "title": "The Night Porter",
+        "style": "Dance/Electronic, R&B",
+        "bpm": 129,
+        "key": "G Minor",
+        "cards": [
+          { "level": 1, "type": "Lead", "instruments": [ "Horns" ], "playlist": "Dapper" },
+            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Dapper" }
+        ]
+    },
+    {
+        "artist": "Young M.C.",
+        "title": "Bust A Move",
+        "style": "Hip-Hop/Rap",
+        "bpm": 118,
+        "key": "E Minor",
+        "cards": [
+          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
+            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Sampler", "Drums", "Guitar" ], "playlist": "Puff" }
+        ]
+    },
+    {
+        "artist": "Zac Brown Band",
+        "title": "Homegrown",
+        "style": "Country",
+        "bpm": 105,
+        "key": "Gb Major",
+        "cards": [
+          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
+            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
+            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Lucky" },
+            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Moonlight" }
+        ]
+    }
+]
