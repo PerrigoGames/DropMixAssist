@@ -19,7 +19,15 @@ struct SongView: View {
   var body: some View {
     HStack {
       VStack(alignment: .leading) {
-        SongTitleView(type: type, song: song)
+        HStack(alignment: .top) {
+          SongTitleView(type: type, song: song)
+          Spacer()
+          Text("Wild")
+            .foregroundColor(CardType.Wild.color())
+            .bold()
+            .padding(.trailing)
+            .opacity(song.cards.contains { $0.type == .Wild } ? 1 : 0)
+        }
         SongCardDetailView(song: song)
           .padding(.top, 1)
       }
