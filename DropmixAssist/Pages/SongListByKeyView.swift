@@ -12,9 +12,9 @@ struct SongListByKeyView: View {
   @State var type: SongViewType
   
   @State var keyLetterToggle: Bool = false
-  @State var keyLetterValue: Double = 0
+  @State var keyLetterValue: Double = 1
   @State var keyMajMinToggle: Bool = false
-  @State var keyMajMinValue: Double = 0
+  @State var keyMajMinValue: Double = 1
   
   private func filtered() -> [Song] {
     return sortedList.filter { song in
@@ -27,8 +27,14 @@ struct SongListByKeyView: View {
     VStack(spacing: 0) {
       ScrollView {
         LazyVStack {
-          ForEach(filtered(), id: \.self) {
-            SongView(type: type, song: $0)
+          ForEach(filtered(), id: \.self) { song in
+            Group {
+              if song.isFX() {
+                SongFXView(songCard: song.songCards()[0])
+              } else {
+                SongView(type: type, song: song)
+              }
+            }
             Divider()
           }
         }
@@ -44,7 +50,7 @@ struct SongListByKeyView: View {
             .frame(width: 60)
           Slider(
             value: $keyLetterValue,
-            in: 0 ... Double(KeyLetter.allCases.count - 1),
+            in: 1 ... Double(KeyLetter.allCases.count - 1), // ignore .None
             step: 1
           ).padding(.leading, 2)
         }
@@ -56,7 +62,7 @@ struct SongListByKeyView: View {
             .frame(width: 60)
           Slider(
             value: $keyMajMinValue,
-            in: 0 ... Double(KeyMajMin.allCases.count - 1),
+            in: 1 ... Double(KeyMajMin.allCases.count - 1), // ignore .None
             step: 1
           ).padding(.leading, 2)
           .frame(width: 50)

@@ -12,6 +12,7 @@
 		040E2BAB2588910E00B678BD /* SongCardDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E2BAA2588910E00B678BD /* SongCardDetailView.swift */; };
 		040E2BAF2588953C00B678BD /* SongListByKeyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E2BAE2588953C00B678BD /* SongListByKeyView.swift */; };
 		040E2BB32588A3F400B678BD /* SongCardListByTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E2BB22588A3F400B678BD /* SongCardListByTypeView.swift */; };
+		040E2BB82589997500B678BD /* SongFXView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040E2BB72589997500B678BD /* SongFXView.swift */; };
 		0499DE5A2585593400DADF44 /* DropmixAssistApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0499DE592585593400DADF44 /* DropmixAssistApp.swift */; };
 		0499DE5C2585593400DADF44 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0499DE5B2585593400DADF44 /* ContentView.swift */; };
 		0499DE5E2585593500DADF44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0499DE5D2585593500DADF44 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 		040E2BAA2588910E00B678BD /* SongCardDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongCardDetailView.swift; sourceTree = "<group>"; };
 		040E2BAE2588953C00B678BD /* SongListByKeyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongListByKeyView.swift; sourceTree = "<group>"; };
 		040E2BB22588A3F400B678BD /* SongCardListByTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongCardListByTypeView.swift; sourceTree = "<group>"; };
+		040E2BB72589997500B678BD /* SongFXView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongFXView.swift; sourceTree = "<group>"; };
 		0499DE562585593400DADF44 /* DropmixAssist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DropmixAssist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0499DE592585593400DADF44 /* DropmixAssistApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropmixAssistApp.swift; sourceTree = "<group>"; };
 		0499DE5B2585593400DADF44 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,8 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				04B7EF7925886F2600AB1F87 /* SongCardView.swift */,
-				040E2B9F25887E5600B678BD /* SongCardListView.swift */,
-				040E2BB22588A3F400B678BD /* SongCardListByTypeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -79,11 +79,10 @@
 			isa = PBXGroup;
 			children = (
 				04B7EF6C258713C700AB1F87 /* SongView.swift */,
+				040E2BB72589997500B678BD /* SongFXView.swift */,
 				04B7EF7D25886F8800AB1F87 /* SongTitleView.swift */,
-				04B7EF80258871DD00AB1F87 /* SongListView.swift */,
 				040E2BA725887FA600B678BD /* SongAttributesView.swift */,
 				040E2BAA2588910E00B678BD /* SongCardDetailView.swift */,
-				040E2BAE2588953C00B678BD /* SongListByKeyView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -97,6 +96,17 @@
 				04B7EF6F2587357F00AB1F87 /* songs.json */,
 			);
 			path = "Data+Util";
+			sourceTree = "<group>";
+		};
+		040E2BB52589983800B678BD /* Pages */ = {
+			isa = PBXGroup;
+			children = (
+				04B7EF80258871DD00AB1F87 /* SongListView.swift */,
+				040E2BAE2588953C00B678BD /* SongListByKeyView.swift */,
+				040E2B9F25887E5600B678BD /* SongCardListView.swift */,
+				040E2BB22588A3F400B678BD /* SongCardListByTypeView.swift */,
+			);
+			path = Pages;
 			sourceTree = "<group>";
 		};
 		0499DE4D2585593400DADF44 = {
@@ -119,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				040E2BA425887E8C00B678BD /* Data+Util */,
+				040E2BB52589983800B678BD /* Pages */,
 				04B7EF7525886EC800AB1F87 /* Card */,
 				0499DE6A2586EE2E00DADF44 /* Song */,
 				0499DE592585593400DADF44 /* DropmixAssistApp.swift */,
@@ -236,6 +247,7 @@
 				040E2BA025887E5600B678BD /* SongCardListView.swift in Sources */,
 				04B7EF732587365A00AB1F87 /* FileUtil.swift in Sources */,
 				04B7EF6A258712F800AB1F87 /* SongData.swift in Sources */,
+				040E2BB82589997500B678BD /* SongFXView.swift in Sources */,
 				04B7EF7E25886F8800AB1F87 /* SongTitleView.swift in Sources */,
 				040E2BAB2588910E00B678BD /* SongCardDetailView.swift in Sources */,
 				04B7EF872588768600AB1F87 /* SampleData.swift in Sources */,

@@ -13,6 +13,7 @@ struct Card: Codable {
   let instruments: [Instrument]
   let type: CardType
   let playlist: String
+  let effect: String?
 }
 
 enum CardType: String, CaseIterable, Codable, Comparable {
@@ -30,7 +31,7 @@ enum CardType: String, CaseIterable, Codable, Comparable {
     case .Beat: return .blue
     case .Bass: return .green
     case .Wild: return .purple
-    case .FX: return .white
+    case .FX: return Color(white: 0.8)
     }
   }
   

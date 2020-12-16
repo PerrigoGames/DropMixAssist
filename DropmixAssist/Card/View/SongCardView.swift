@@ -9,28 +9,27 @@ import SwiftUI
 
 struct SongCardView: View {
   @State var type: SongViewType
-  @State var song: Song
-  @State var card: Card
+  @State var songCard: SongCard
   
   private var cardBottomText: String {
     get {
-      if card.type == .Wild {
-        return card.type.rawValue
+      if songCard.card.type == .Wild {
+        return songCard.card.type.rawValue
       } else {
-        return card.instruments[0].rawValue
+        return songCard.card.instruments[0].rawValue
       }
     }
   }
   
   var body: some View {
     HStack {
-      SongTitleView(type: type, song: song)
+      SongTitleView(type: type, song: songCard.song)
       Spacer()
       
       ZStack {
-        card.type.color()
+        songCard.card.type.color()
         VStack {
-          Text(String(card.level))
+          Text(String(songCard.card.level))
             .font(.system(size: 18, weight: .bold))
           Text(cardBottomText)
             .font(.system(size: 12))
@@ -39,8 +38,8 @@ struct SongCardView: View {
       }
       .frame(width: 55)
       
-      SongAttributesView(song: song)
-        .frame(width: 70)
+      SongAttributesView(song: songCard.song)
+        .frame(width: 60, alignment: .trailing)
     }
     .padding(.horizontal)
   }
@@ -50,7 +49,7 @@ struct SongCardView_Previews: PreviewProvider {
     static var previews: some View {
       SongCardView(
         type: .TitleFirst,
-        song: SampleData.song,
-        card: SampleData.card)
+        songCard: SampleData.songCard
+      )
     }
 }

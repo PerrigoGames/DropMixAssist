@@ -13,10 +13,12 @@ struct SongAttributesView: View {
   var body: some View {
     VStack(alignment: .trailing) {
       Text("\(song.bpm) BPM")
-      HStack {
-        Text(song.keyLetter.rawValue)
-        Text(song.keyMajMin.rawValue)
-          .foregroundColor(song.keyMajMin.color())
+      if (song.keyLetter != .None && song.keyMajMin != .None) {
+        HStack {
+          Text(song.keyLetter.rawValue)
+          Text(song.keyMajMin.rawValue)
+            .foregroundColor(song.keyMajMin.color())
+        }
       }
     }
     .font(.footnote)

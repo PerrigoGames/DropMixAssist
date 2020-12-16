@@ -11,23 +11,31 @@ import SwiftUI
 struct Song: Codable, Hashable {
   let artist: String
   let title: String
-  let style: String
+  let style: String?
   let bpm: Int
-  let key: String
+  let key: String?
   let cards: [Card]
   
   var keyLetter: KeyLetter {
     get {
-      let letter = self.key.split(separator: " ")[0]
+      guard let letter = self.key?.split(separator: " ")[0] else {
+        return .None
+      }
       return KeyLetter.allCases.first { $0.rawValue == letter }!
     }
   }
   
   var keyMajMin: KeyMajMin {
     get {
-      let letter = self.key.split(separator: " ")[1]
+      guard let letter = self.key?.split(separator: " ")[1] else {
+        return .None
+      }
       return KeyMajMin.allCases.first { $0.rawValue == letter }!
     }
+  }
+  
+  func isFX() -> Bool {
+    return self.card(forType: .FX) != nil
   }
   
   func card(forType: CardType) -> Card? {
@@ -45,6 +53,7 @@ struct Song: Codable, Hashable {
 }
 
 enum KeyLetter: String, CaseIterable, Codable, Comparable {
+  case None
   case Ab
   case A
   case Bb
@@ -68,6 +77,7 @@ enum KeyLetter: String, CaseIterable, Codable, Comparable {
 }
 
 enum KeyMajMin: String, CaseIterable, Codable, Comparable {
+  case None
   case Major
   case Minor;
   
@@ -85,6 +95,8 @@ enum KeyMajMin: String, CaseIterable, Codable, Comparable {
       return .green
     case KeyMajMin.Minor:
       return .red
+    case KeyMajMin.None:
+      return Color(white: 1, opacity: 0)
     }
   }
 }

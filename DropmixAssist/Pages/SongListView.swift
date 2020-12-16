@@ -14,8 +14,14 @@ struct SongListView: View {
   var body: some View {
     ScrollView {
       LazyVStack {
-        ForEach(sortedList, id: \.self) {
-          SongView(type: type, song: $0)
+        ForEach(sortedList, id: \.self) { song in
+          Group {
+            if song.isFX() {
+              SongFXView(songCard: song.songCards()[0])
+            } else {
+              SongView(type: type, song: song)
+            }
+          }
           Divider()
         }
       }

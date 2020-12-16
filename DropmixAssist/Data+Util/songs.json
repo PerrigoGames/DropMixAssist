@@ -6,8 +6,22 @@
         "bpm": 143,
         "key": "Eb Minor",
         "cards": [
-          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" },
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" }
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Seer"
+            }
         ]
     },
     {
@@ -17,9 +31,30 @@
         "bpm": 132,
         "key": "B Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Ouroboros" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
-            { "level": 2,	"type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            }
         ]
     },
     {
@@ -29,9 +64,30 @@
         "bpm": 102,
         "key": "A Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Highness" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Highness" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -41,9 +97,30 @@
         "bpm": 130,
         "key": "C Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Chiller" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Controller"
+            }
         ]
     },
     {
@@ -53,8 +130,22 @@
         "bpm": 128,
         "key": "E Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Chiller"
+            }
         ]
     },
     {
@@ -64,8 +155,22 @@
         "bpm": 104,
         "key": "D Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
-            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Verdant" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
@@ -75,7 +180,17 @@
         "bpm": 115,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Bomb" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -85,10 +200,38 @@
         "bpm": 123,
         "key": "F Minor",
         "cards": [
-          { "level": 3,	"type": "Lead", "instruments": [ "Vocals" ], "playlist":	"Phase" },
-          { "level": 1,	"type": "Beat", "instruments": [ "Drums" ], "playlist":	"Phase" },
-          { "level": 2,	"type": "Bass", "instruments": [ "Guitar" ], "playlist":	"Fantastic" },
-          { "level": 3,	"type": "Loop", "instruments": [ "Guitar" ], "playlist":	"Fantastic" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -98,8 +241,22 @@
         "bpm": 110,
         "key": "E Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Instinct" },
-          { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
@@ -109,7 +266,14 @@
         "bpm": 130,
         "key": "C Major",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -119,8 +283,22 @@
         "bpm": 128,
         "key": "A Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" },
-          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            }
         ]
     },
     {
@@ -130,9 +308,30 @@
         "bpm": 150,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "City" },
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
-          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "City" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -142,8 +341,22 @@
         "bpm": 112,
         "key": "Gb Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
-          { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fever" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Fever"
+            }
         ]
     },
     {
@@ -153,7 +366,17 @@
         "bpm": 130,
         "key": "Bb Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Sampler", "Synths", "Drums", "Synths" ], "playlist": "Phase" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Sampler",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            }
         ]
     },
     {
@@ -163,10 +386,38 @@
         "bpm": 102,
         "key": "E Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Lucky" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            }
         ]
     },
     {
@@ -176,9 +427,30 @@
         "bpm": 150,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" },
-            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Mirrors" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Mirrors"
+            }
         ]
     },
     {
@@ -188,10 +460,38 @@
         "bpm": 150,
         "key": "G Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
-            { "level": 1, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Puff" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            }
         ]
     },
     {
@@ -201,8 +501,22 @@
         "bpm": 110,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Hightower" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Hightower"
+            }
         ]
     },
     {
@@ -212,8 +526,22 @@
         "bpm": 130,
         "key": "Bb Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flawless"
+            }
         ]
     },
     {
@@ -223,7 +551,17 @@
         "bpm": 148,
         "key": "C Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Ouroboros" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            }
         ]
     },
     {
@@ -233,8 +571,22 @@
         "bpm": 115,
         "key": "E Major",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fantastic" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -244,8 +596,22 @@
         "bpm": 99,
         "key": "E Major",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            }
         ]
     },
     {
@@ -255,8 +621,22 @@
         "bpm": 130,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
@@ -266,7 +646,17 @@
         "bpm": 107,
         "key": "F Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Sweets" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Sweets"
+            }
         ]
     },
     {
@@ -276,9 +666,30 @@
         "bpm": 129,
         "key": "Eb Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Horns" ], "playlist": "Mirrors" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Mirrors" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Mirrors"
+            }
         ]
     },
     {
@@ -288,10 +699,38 @@
         "bpm": 120,
         "key": "D Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
-            { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Blade" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Blade"
+            }
         ]
     },
     {
@@ -301,8 +740,22 @@
         "bpm": 145,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
-            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Derby" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Derby"
+            }
         ]
     },
     {
@@ -312,10 +765,38 @@
         "bpm": 120,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Sweets" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Sweets" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Fever" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Fever"
+            }
         ]
     },
     {
@@ -325,8 +806,25 @@
         "bpm": 137,
         "key": "A Minor",
         "cards": [
-          { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" },
-            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Strings", "Drums", "Synths" ], "playlist": "Lucky" }
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Strings",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Lucky"
+            }
         ]
     },
     {
@@ -336,10 +834,38 @@
         "bpm": 100,
         "key": "Eb Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Rhymer" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Instinct" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Instinct" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
@@ -349,8 +875,22 @@
         "bpm": 87,
         "key": "B Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
-            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Highness" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -360,7 +900,17 @@
         "bpm": 120,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Highness" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -370,10 +920,38 @@
         "bpm": 87,
         "key": "Db Major",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Puff" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Chiller"
+            }
         ]
     },
     {
@@ -383,7 +961,17 @@
         "bpm": 106,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Fever" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Horns",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Fever"
+            }
         ]
     },
     {
@@ -393,7 +981,14 @@
         "bpm": 120,
         "key": "Bb Major",
         "cards": [
-          { "level": 3, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -403,20 +998,40 @@
         "bpm": 120,
         "key": "G Major",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Moonlight" },
-            { "level": 1, "type": "Lead", "instruments": [ "Guitar" ], "playlist": "Moonlight" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            }
         ]
     },
     {
-      "artist": "Connecticut River Boys",
-      "title": "Up All Night",
-      "style": "Country",
-      "bpm": 110,
-      "key": "A Minor",
-      "cards": [
-        { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Baffler" }
-      ]
-  },
+        "artist": "Connecticut River Boys",
+        "title": "Up All Night",
+        "style": "Country",
+        "bpm": 110,
+        "cards": [
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Baffler"
+            }
+        ]
+    },
     {
         "artist": "Crackcase",
         "title": "Somatic",
@@ -424,8 +1039,22 @@
         "bpm": 150,
         "key": "F Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
-            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Astro" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Astro"
+            }
         ]
     },
     {
@@ -435,8 +1064,22 @@
         "bpm": 102,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
-            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Rhymer" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Rhymer"
+            }
         ]
     },
     {
@@ -446,9 +1089,30 @@
         "bpm": 128,
         "key": "B Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flawless"
+            }
         ]
     },
     {
@@ -458,10 +1122,38 @@
         "bpm": 105,
         "key": "Db Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Instinct" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Verdant" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Verdant" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
@@ -471,18 +1163,34 @@
         "bpm": 82,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Horns", "Guitar", "Drums", "Guitar" ], "playlist": "DM" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Horns",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "DM"
+            }
         ]
     },
     {
-      "artist": "Davis Franklin",
-      "title": "Beat Boxer",
-      "style": "Hip-Hop/Rap",
-      "bpm": 130,
-      "key": "A Minor",
-      "cards": [
-        { "level": 3, "type": "Beat", "instruments": [ "Vocals" ], "playlist": "Baffler" }
-      ]
+        "artist": "Davis Franklin",
+        "title": "Beat Boxer",
+        "style": "Hip-Hop/Rap",
+        "bpm": 130,
+        "cards": [
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Baffler"
+            }
+        ]
     },
     {
         "artist": "Dillzan Madan",
@@ -491,9 +1199,30 @@
         "bpm": 128,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Rhymer" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Mirrors" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Mirrors"
+            }
         ]
     },
     {
@@ -503,7 +1232,17 @@
         "bpm": 90,
         "key": "Eb Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Blade" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            }
         ]
     },
     {
@@ -513,9 +1252,30 @@
         "bpm": 150,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Energy" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Energy" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -525,8 +1285,22 @@
         "bpm": 123,
         "key": "Eb Major",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fantastic" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -536,7 +1310,17 @@
         "bpm": 112,
         "key": "Db Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Moonlight" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            }
         ]
     },
     {
@@ -546,9 +1330,30 @@
         "bpm": 128,
         "key": "Eb Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Puff" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            }
         ]
     },
     {
@@ -558,7 +1363,17 @@
         "bpm": 126,
         "key": "A Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Seer" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Horns",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Seer"
+            }
         ]
     },
     {
@@ -568,10 +1383,38 @@
         "bpm": 120,
         "key": "Ab Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Ouroboros" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Blade" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            }
         ]
     },
     {
@@ -581,20 +1424,40 @@
         "bpm": 120,
         "key": "C Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Instinct" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
-      "artist": "Edgar Allen Poe",
-      "title": "The Raven",
-      "style": "Dance/Electronic, Pop",
-      "bpm": 115,
-      "key": "A Minor",
-      "cards": [
-        { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
-      ]
-  },
+        "artist": "Edgar Allan Poe",
+        "title": "The Raven",
+        "style": "Dance/Electronic, Pop",
+        "bpm": 115,
+        "cards": [
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Baffler"
+            }
+        ]
+    },
     {
         "artist": "Ellie Goulding",
         "title": "Burn",
@@ -602,7 +1465,17 @@
         "bpm": 150,
         "key": "Bb Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Flora" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -612,8 +1485,22 @@
         "bpm": 104,
         "key": "Ab Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Energy" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -623,7 +1510,17 @@
         "bpm": 117,
         "key": "Gb Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Hightower" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            }
         ]
     },
     {
@@ -633,10 +1530,38 @@
         "bpm": 95,
         "key": "E Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Blade" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Blade" },
-            { "level": 1, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Ouroboros" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Ouroboros"
+            }
         ]
     },
     {
@@ -646,10 +1571,38 @@
         "bpm": 88,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Blade" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Socket" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Socket" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Seer"
+            }
         ]
     },
     {
@@ -659,9 +1612,30 @@
         "bpm": 125,
         "key": "G Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Breaker" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
-            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Breaker"
+            }
         ]
     },
     {
@@ -671,9 +1645,30 @@
         "bpm": 95,
         "key": "B Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Rhymer" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Rhymer" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Rhymer"
+            }
         ]
     },
     {
@@ -683,7 +1678,17 @@
         "bpm": 105,
         "key": "Ab Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Flawless" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Flawless"
+            }
         ]
     },
     {
@@ -693,10 +1698,38 @@
         "bpm": 118,
         "key": "D Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Breaker" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Breaker" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Highness" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -706,9 +1739,30 @@
         "bpm": 122,
         "key": "C Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Fever" },
-            { "level": 1, "type": "Lead", "instruments": [ "Synths" ], "playlist": "Fever" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fever" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fever"
+            }
         ]
     },
     {
@@ -718,10 +1772,38 @@
         "bpm": 104,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
-            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Socket" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Socket" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Socket"
+            }
         ]
     },
     {
@@ -731,9 +1813,30 @@
         "bpm": 128,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Dapper" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Derby" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Derby"
+            }
         ]
     },
     {
@@ -743,8 +1846,22 @@
         "bpm": 150,
         "key": "Eb Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Breaker"
+            }
         ]
     },
     {
@@ -754,7 +1871,17 @@
         "bpm": 94,
         "key": "G Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "DM" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "DM"
+            }
         ]
     },
     {
@@ -764,7 +1891,17 @@
         "bpm": 80,
         "key": "Db Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Vocals" ], "playlist": "Mirrors" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Vocals"
+                ],
+                "playlist": "Mirrors"
+            }
         ]
     },
     {
@@ -774,7 +1911,17 @@
         "bpm": 122,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Synths" ], "playlist": "Verdant" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Horns",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
@@ -784,10 +1931,38 @@
         "bpm": 116,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Derby" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Derby" },
-            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Dapper" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Dapper"
+            }
         ]
     },
     {
@@ -797,9 +1972,30 @@
         "bpm": 96,
         "key": "E Major",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Dapper" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
-            { "level": 3, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Dapper" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Dapper"
+            }
         ]
     },
     {
@@ -809,7 +2005,17 @@
         "bpm": 124,
         "key": "G Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Fantastic" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -819,7 +2025,17 @@
         "bpm": 111,
         "key": "C Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Dapper" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Dapper"
+            }
         ]
     },
     {
@@ -829,7 +2045,14 @@
         "bpm": 150,
         "key": "B Major",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Horns" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -839,7 +2062,14 @@
         "bpm": 113,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Synths" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -849,7 +2079,14 @@
         "bpm": 139,
         "key": "E Minor",
         "cards": [
-          { "level": 3, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -859,7 +2096,14 @@
         "bpm": 118,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -869,10 +2113,38 @@
         "bpm": 137,
         "key": "B Minor",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Socket" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Hightower" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            }
         ]
     },
     {
@@ -882,7 +2154,14 @@
         "bpm": 100,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -892,8 +2171,22 @@
         "bpm": 145,
         "key": "A Major",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -903,9 +2196,30 @@
         "bpm": 121,
         "key": "F Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Controller" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Chiller" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Controller"
+            }
         ]
     },
     {
@@ -915,8 +2229,22 @@
         "bpm": 109,
         "key": "Ab Minor",
         "cards": [
-          { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Phase" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            }
         ]
     },
     {
@@ -926,10 +2254,38 @@
         "bpm": 114,
         "key": "Eb Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Controller" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Controller" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            }
         ]
     },
     {
@@ -939,8 +2295,22 @@
         "bpm": 140,
         "key": "E Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
-            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Bomb" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -950,21 +2320,48 @@
         "bpm": 97,
         "key": "Gb Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Verdant" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
-      "artist": "Kaskade",
-      "title": "Atmosphere",
-      "style": "Dance/Electronic",
-      "bpm": 123,
-      "key": "A Minor",
-      "cards": [
-        { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Phase" },
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" }
-      ]
-  },
+        "artist": "Kaskade",
+        "title": "Atmosphere",
+        "style": "Dance/Electronic",
+        "bpm": 123,
+        "cards": [
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Phase"
+            }
+        ]
+    },
     {
         "artist": "Kendrick Lamar",
         "title": "Humble.",
@@ -972,8 +2369,22 @@
         "bpm": 80,
         "key": "Ab Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "City" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "City" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -983,8 +2394,22 @@
         "bpm": 123,
         "key": "G Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Flora" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -994,7 +2419,17 @@
         "bpm": 97,
         "key": "G Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Guitar" ], "playlist": "Breaker" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Horns",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Breaker"
+            }
         ]
     },
     {
@@ -1004,8 +2439,22 @@
         "bpm": 114,
         "key": "B Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Rhymer" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Rhymer" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Rhymer"
+            }
         ]
     },
     {
@@ -1015,9 +2464,30 @@
         "bpm": 140,
         "key": "Eb Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Puff" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Puff" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Puff"
+            }
         ]
     },
     {
@@ -1027,8 +2497,22 @@
         "bpm": 96,
         "key": "F Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fever" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fever"
+            }
         ]
     },
     {
@@ -1038,8 +2522,22 @@
         "bpm": 150,
         "key": "A Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Flora" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flora" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -1049,7 +2547,14 @@
         "bpm": 96,
         "key": "E Major",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1059,9 +2564,30 @@
         "bpm": 130,
         "key": "G Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Controller" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Dapper" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Dapper"
+            }
         ]
     },
     {
@@ -1071,7 +2597,17 @@
         "bpm": 150,
         "key": "Ab Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Vocals", "Drums", "Vocals" ], "playlist": "City" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Vocals",
+                    "Drums",
+                    "Vocals"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -1081,8 +2617,22 @@
         "bpm": 129,
         "key": "A Major",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flora" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flora" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -1092,9 +2642,30 @@
         "bpm": 107,
         "key": "Gb Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Chiller" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
-            { "level": 3, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Chiller" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Chiller"
+            }
         ]
     },
     {
@@ -1104,8 +2675,22 @@
         "bpm": 94,
         "key": "G Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flora" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flora"
+            }
         ]
     },
     {
@@ -1115,7 +2700,14 @@
         "bpm": 96,
         "key": "C Minor",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Strings" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1125,7 +2717,17 @@
         "bpm": 108,
         "key": "C Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Horns", "Drums", "Synths" ], "playlist": "Rhymer" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Horns",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Rhymer"
+            }
         ]
     },
     {
@@ -1135,8 +2737,22 @@
         "bpm": 132,
         "key": "E Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Breaker"
+            }
         ]
     },
     {
@@ -1146,10 +2762,38 @@
         "bpm": 122,
         "key": "Bb Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Dapper" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Breaker" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Dapper" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Breaker" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Breaker"
+            }
         ]
     },
     {
@@ -1159,8 +2803,22 @@
         "bpm": 80,
         "key": "A Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Derby" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Derby"
+            }
         ]
     },
     {
@@ -1170,7 +2828,17 @@
         "bpm": 128,
         "key": "B Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Synths" ], "playlist": "Energy" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -1180,8 +2848,22 @@
         "bpm": 95,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Instinct" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Instinct" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Instinct"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
@@ -1191,7 +2873,14 @@
         "bpm": 128,
         "key": "F Minor",
         "cards": [
-          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1201,10 +2890,38 @@
         "bpm": 134,
         "key": "A Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Derby" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Sweets" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Sweets"
+            }
         ]
     },
     {
@@ -1214,7 +2931,17 @@
         "bpm": 123,
         "key": "A Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Astro" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            }
         ]
     },
     {
@@ -1224,7 +2951,17 @@
         "bpm": 94,
         "key": "E Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "DM" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "DM"
+            }
         ]
     },
     {
@@ -1234,9 +2971,30 @@
         "bpm": 94,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Puff" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Astro" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Puff"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            }
         ]
     },
     {
@@ -1246,8 +3004,25 @@
         "bpm": 131,
         "key": "D Minor",
         "cards": [
-          { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Phase" },
-            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Chiller" }
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Chiller"
+            }
         ]
     },
     {
@@ -1257,8 +3032,22 @@
         "bpm": 102,
         "key": "F Major",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -1268,8 +3057,22 @@
         "bpm": 150,
         "key": "A Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            }
         ]
     },
     {
@@ -1279,10 +3082,38 @@
         "bpm": 115,
         "key": "B Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Chiller" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Astro" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Controller" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Controller"
+            }
         ]
     },
     {
@@ -1292,10 +3123,38 @@
         "bpm": 97,
         "key": "C Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Mirrors" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flawless" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Mirrors" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Flawless" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Flawless"
+            }
         ]
     },
     {
@@ -1305,8 +3164,22 @@
         "bpm": 128,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Hightower" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Hightower" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            }
         ]
     },
     {
@@ -1316,10 +3189,38 @@
         "bpm": 95,
         "key": "Eb Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Socket" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Ouroboros" },
-            { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Socket" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Socket"
+            }
         ]
     },
     {
@@ -1327,10 +3228,23 @@
         "title": "Straight Up",
         "style": "Dance/Electronic, Pop",
         "bpm": 96,
-        "key": "A Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Verdant" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
@@ -1340,9 +3254,30 @@
         "bpm": 132,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Phase" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Phase" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Phase" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Phase"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Phase"
+            }
         ]
     },
     {
@@ -1352,9 +3287,30 @@
         "bpm": 120,
         "key": "D Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Socket" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Socket" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Socket"
+            }
         ]
     },
     {
@@ -1364,10 +3320,38 @@
         "bpm": 123,
         "key": "F Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Verdant" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Verdant" },
-            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "City" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -1377,10 +3361,38 @@
         "bpm": 82,
         "key": "Gb Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Lucky" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Moonlight" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Moonlight" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            }
         ]
     },
     {
@@ -1390,8 +3402,22 @@
         "bpm": 140,
         "key": "E Major",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Verdant" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Verdant" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Verdant"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Verdant"
+            }
         ]
     },
     {
@@ -1401,8 +3427,22 @@
         "bpm": 126,
         "key": "Gb Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -1412,7 +3452,17 @@
         "bpm": 132,
         "key": "B Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "Instinct" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Instinct"
+            }
         ]
     },
     {
@@ -1422,8 +3472,22 @@
         "bpm": 97,
         "key": "G Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Energy" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -1433,8 +3497,25 @@
         "bpm": 132,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Fantastic" },
-            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Guitar" ], "playlist": "Derby" }
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Derby"
+            }
         ]
     },
     {
@@ -1444,10 +3525,38 @@
         "bpm": 142,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Fever" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fever" },
-            { "level": 1, "type": "Loop", "instruments": [ "Horns" ], "playlist": "Sweets" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Sweets"
+            }
         ]
     },
     {
@@ -1457,9 +3566,30 @@
         "bpm": 135,
         "key": "A Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Seer" },
-            { "level": 1, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Seer" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Seer" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Seer"
+            }
         ]
     },
     {
@@ -1469,10 +3599,38 @@
         "bpm": 128,
         "key": "F Minor",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Seer" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Highness" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Seer" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Highness" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -1482,9 +3640,30 @@
         "bpm": 130,
         "key": "A Minor",
         "cards": [
-          { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Mirrors" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Mirrors" }
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Mirrors"
+            }
         ]
     },
     {
@@ -1494,10 +3673,38 @@
         "bpm": 104,
         "key": "Eb Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Sweets" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Moonlight" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            }
         ]
     },
     {
@@ -1507,8 +3714,22 @@
         "bpm": 112,
         "key": "G Minor",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Rhymer" },
-            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Rhymer" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Rhymer"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Rhymer"
+            }
         ]
     },
     {
@@ -1518,9 +3739,30 @@
         "bpm": 125,
         "key": "Bb Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Seer" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Highness" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Highness"
+            }
         ]
     },
     {
@@ -1530,10 +3772,38 @@
         "bpm": 87,
         "key": "Db Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Derby" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Dapper" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Sweets" },
-            { "level": 2, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Sweets" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Sweets"
+            }
         ]
     },
     {
@@ -1543,8 +3813,22 @@
         "bpm": 90,
         "key": "Gb Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Fantastic" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Fantastic" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -1554,8 +3838,22 @@
         "bpm": 150,
         "key": "Gb Minor",
         "cards": [
-          { "level": 2, "type": "Lead", "instruments": [ "Sampler" ], "playlist": "Socket" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Bomb" }
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Socket"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -1565,7 +3863,17 @@
         "bpm": 110,
         "key": "G Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Synths" ], "playlist": "Controller" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "Controller"
+            }
         ]
     },
     {
@@ -1575,8 +3883,22 @@
         "bpm": 145,
         "key": "G Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fantastic" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Fantastic" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fantastic"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Fantastic"
+            }
         ]
     },
     {
@@ -1586,9 +3908,30 @@
         "bpm": 124,
         "key": "C Major",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Flora" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Moonlight" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Flora"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Moonlight"
+            }
         ]
     },
     {
@@ -1598,8 +3941,22 @@
         "bpm": 140,
         "key": "C Minor",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "City" },
-            { "level": 1, "type": "Loop", "instruments": [ "Drums" ], "playlist": "City" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -1609,8 +3966,22 @@
         "bpm": 128,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
-            { "level": 2, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "City" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "City"
+            }
         ]
     },
     {
@@ -1620,8 +3991,22 @@
         "bpm": 128,
         "key": "C Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Bomb" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Bomb" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -1631,8 +4016,22 @@
         "bpm": 130,
         "key": "A Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
-            { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Bomb" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -1642,10 +4041,38 @@
         "bpm": 95,
         "key": "F Minor",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Astro" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Chiller" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Controller" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Controller" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Chiller"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Controller"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Controller"
+            }
         ]
     },
     {
@@ -1655,10 +4082,38 @@
         "bpm": 98,
         "key": "Ab Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Seer" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Derby" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Derby" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Derby"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Derby"
+            }
         ]
     },
     {
@@ -1668,9 +4123,30 @@
         "bpm": 118,
         "key": "C Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Lucky" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Lucky" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Lucky"
+            }
         ]
     },
     {
@@ -1680,8 +4156,22 @@
         "bpm": 110,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Sweets" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Sweets" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Sweets"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Sweets"
+            }
         ]
     },
     {
@@ -1691,7 +4181,14 @@
         "bpm": 94,
         "key": "A Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1701,7 +4198,14 @@
         "bpm": 97,
         "key": "Gb Major",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Sampler" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1711,7 +4215,17 @@
         "bpm": 85,
         "key": "D Minor",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Synths", "Drums", "Synths" ], "playlist": "DM" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Synths",
+                    "Drums",
+                    "Synths"
+                ],
+                "playlist": "DM"
+            }
         ]
     },
     {
@@ -1721,9 +4235,30 @@
         "bpm": 150,
         "key": "D Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Astro" },
-            { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Astro" },
-            { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Astro" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Astro"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Astro"
+            }
         ]
     },
     {
@@ -1733,10 +4268,38 @@
         "bpm": 108,
         "key": "A Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Highness" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Mirrors" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Highness" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Bomb" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Mirrors"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Highness"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -1746,7 +4309,14 @@
         "bpm": 144,
         "key": "E Minor",
         "cards": [
-          { "level": 1, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Chiller" }
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Chiller"
+            }
         ]
     },
     {
@@ -1756,10 +4326,38 @@
         "bpm": 93,
         "key": "Ab Minor",
         "cards": [
-          { "level": 1, "type": "Bass", "instruments": [ "Synths" ], "playlist": "Breaker" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Seer" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Flawless" },
-            { "level": 2, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Flawless" }
+            {
+                "level": 1,
+                "type": "Bass",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Breaker"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Seer"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Flawless"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Flawless"
+            }
         ]
     },
     {
@@ -1769,7 +4367,17 @@
         "bpm": 88,
         "key": "D Major",
         "cards": [
-          { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Guitar", "Drums", "Guitar" ], "playlist": "Socket" }
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Guitar",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Socket"
+            }
         ]
     },
     {
@@ -1779,7 +4387,14 @@
         "bpm": 95,
         "key": "B Major",
         "cards": [
-          { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Baffler" }
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Baffler"
+            }
         ]
     },
     {
@@ -1789,9 +4404,30 @@
         "bpm": 145,
         "key": "A Minor",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Strings" ], "playlist": "Bomb" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Bomb" },
-            { "level": 1, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Bomb" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Bomb"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Bomb"
+            }
         ]
     },
     {
@@ -1801,10 +4437,38 @@
         "bpm": 128,
         "key": "Db Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Fever" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Fever" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Ouroboros" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Ouroboros" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Fever"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Ouroboros"
+            }
         ]
     },
     {
@@ -1814,8 +4478,22 @@
         "bpm": 140,
         "key": "D Minor",
         "cards": [
-          { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Blade" },
-            { "level": 1, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Blade"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            }
         ]
     },
     {
@@ -1825,10 +4503,38 @@
         "bpm": 80,
         "key": "Gb Major",
         "cards": [
-          { "level": 2, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Hightower" },
-            { "level": 2, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Ouroboros" },
-            { "level": 1, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Hightower" },
-            { "level": 3, "type": "Loop", "instruments": [ "Guitar" ], "playlist": "Blade" }
+            {
+                "level": 2,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 2,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Ouroboros"
+            },
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Hightower"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Blade"
+            }
         ]
     },
     {
@@ -1838,8 +4544,22 @@
         "bpm": 130,
         "key": "G Minor",
         "cards": [
-          { "level": 3, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Energy" },
-            { "level": 3, "type": "Loop", "instruments": [ "Synths" ], "playlist": "Energy" }
+            {
+                "level": 3,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Energy"
+            },
+            {
+                "level": 3,
+                "type": "Loop",
+                "instruments": [
+                    "Synths"
+                ],
+                "playlist": "Energy"
+            }
         ]
     },
     {
@@ -1849,8 +4569,22 @@
         "bpm": 129,
         "key": "G Minor",
         "cards": [
-          { "level": 1, "type": "Lead", "instruments": [ "Horns" ], "playlist": "Dapper" },
-            { "level": 1, "type": "Loop", "instruments": [ "Sampler" ], "playlist": "Dapper" }
+            {
+                "level": 1,
+                "type": "Lead",
+                "instruments": [
+                    "Horns"
+                ],
+                "playlist": "Dapper"
+            },
+            {
+                "level": 1,
+                "type": "Loop",
+                "instruments": [
+                    "Sampler"
+                ],
+                "playlist": "Dapper"
+            }
         ]
     },
     {
@@ -1860,8 +4594,25 @@
         "bpm": 118,
         "key": "E Minor",
         "cards": [
-          { "level": 3, "type": "Beat", "instruments": [ "Drums" ], "playlist": "City" },
-            { "level": 2, "type": "Wild", "instruments": [ "Vocals", "Sampler", "Drums", "Guitar" ], "playlist": "Puff" }
+            {
+                "level": 3,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "City"
+            },
+            {
+                "level": 2,
+                "type": "Wild",
+                "instruments": [
+                    "Vocals",
+                    "Sampler",
+                    "Drums",
+                    "Guitar"
+                ],
+                "playlist": "Puff"
+            }
         ]
     },
     {
@@ -1871,10 +4622,910 @@
         "bpm": 105,
         "key": "Gb Major",
         "cards": [
-          { "level": 3, "type": "Bass", "instruments": [ "Guitar" ], "playlist": "Moonlight" },
-            { "level": 1, "type": "Beat", "instruments": [ "Drums" ], "playlist": "Lucky" },
-            { "level": 2, "type": "Lead", "instruments": [ "Vocals" ], "playlist": "Lucky" },
-            { "level": 2, "type": "Loop", "instruments": [ "Strings" ], "playlist": "Moonlight" }
+            {
+                "level": 3,
+                "type": "Bass",
+                "instruments": [
+                    "Guitar"
+                ],
+                "playlist": "Moonlight"
+            },
+            {
+                "level": 1,
+                "type": "Beat",
+                "instruments": [
+                    "Drums"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 2,
+                "type": "Lead",
+                "instruments": [
+                    "Vocals"
+                ],
+                "playlist": "Lucky"
+            },
+            {
+                "level": 2,
+                "type": "Loop",
+                "instruments": [
+                    "Strings"
+                ],
+                "playlist": "Moonlight"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Acrimony",
+        "style": "Hip-Hop/Rap",
+        "key": "Eb Minor",
+        "bpm": 90,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Seer",
+                "effect": "Clear all opponent Red cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Alacrity",
+        "style": "Hip-Hop/Rap",
+        "key": "D Minor",
+        "bpm": 109,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Seer",
+                "effect": "Play an extra Level 1 card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Assert Order",
+        "style": "Dance/Electronic",
+        "key": "E Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Controller",
+                "effect": "+2 points for a Green card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Bitter Medicine",
+        "key": "D Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Flora",
+                "effect": "+3 points for a Yellow / Green pair"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Bottom Line",
+        "style": "Rock",
+        "key": "B Minor",
+        "bpm": 130,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Hightower",
+                "effect": "Play an extra Green card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Bust It Up",
+        "style": "Hip-Hop/Rap",
+        "key": "Bb Minor",
+        "bpm": 103,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Mirrors",
+                "effect": "+2 points for each Drums / Vocals Pair"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Clear Your Mind",
+        "style": "Pop",
+        "key": "F Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Sweets",
+                "effect": "Clear 1 opponent card at random"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Colores De Flores",
+        "key": "C Major",
+        "bpm": 81,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Verdant",
+                "effect": "+2 points for a Red / Yellow pair"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Component Synthesis",
+        "style": "Dance/Electronic",
+        "key": "F Minor",
+        "bpm": 132,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Astro",
+                "effect": "+2 points for each pair of cards from the same song"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Conspiracy of Ravens",
+        "style": "Country",
+        "bpm": 100,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Moonlight",
+                "effect": "Clear opponent Green card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Cool Down",
+        "key": "C Major",
+        "bpm": 104,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Energy",
+                "effect": "+1 point"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Cover the Bases",
+        "key": "F Major",
+        "bpm": 112,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Fantastic",
+                "effect": "+1 point if played in an empty mix slot"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Dimensional Shift",
+        "style": "Dance/Electronic",
+        "key": "E Minor",
+        "bpm": 150,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Astro",
+                "effect": "Shuffle your hand into your deck, then draw the same number of cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Eclipser",
+        "style": "Dance/Electronic",
+        "key": "D Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Puff",
+                "effect": "Clear opponent Yellow card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Embrace Chaos",
+        "style": "Dance/Electronic",
+        "key": "G Minor",
+        "bpm": 95,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Controller",
+                "effect": "-2 points from opponent"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Face Melter",
+        "style": "Rock",
+        "key": "E Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Hightower",
+                "effect": "+1 point for each Guitar card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "First Chair",
+        "style": "Hip-Hop/Rap",
+        "key": "E Minor",
+        "bpm": 100,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Bomb",
+                "effect": "+2 points for each Strings card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Flame Out",
+        "style": "Hip-Hop/Rap",
+        "key": "E Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Highness",
+                "effect": "+1 point for each Blue card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Formation Delta",
+        "key": "C Minor",
+        "bpm": 122,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Phase",
+                "effect": "Clear all Green / Red cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Guardian Spirit",
+        "style": "Hip-Hop/Rap",
+        "key": "E Major",
+        "bpm": 90,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Breaker",
+                "effect": "Play an extra Sampler card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Head Rush",
+        "style": "Pop",
+        "bpm": 104,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Dapper",
+                "effect": "Play an extra Horns card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Heart Song",
+        "style": "Pop",
+        "key": "A Minor",
+        "bpm": 110,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Dapper",
+                "effect": "+2 points for each Horns card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Ill Omen",
+        "style": "Country",
+        "key": "D Minor",
+        "bpm": 124,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Lucky",
+                "effect": "Extra equalizer spin"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "In the Air",
+        "key": "C Minor",
+        "bpm": 123,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Instinct",
+                "effect": "+2 points for a Green / Blue pair"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Kicking It Out",
+        "style": "Pop",
+        "key": "E Minor",
+        "bpm": 112,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Derby",
+                "effect": "+3 points for a Green, Blue, Red, Yellow set"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Lay It Down",
+        "style": "Hip-Hop/Rap",
+        "bpm": 105,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Mirrors",
+                "effect": "Play an extra Red card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Lift Your Voice",
+        "style": "Pop",
+        "key": "G Major",
+        "bpm": 150,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Sweets",
+                "effect": "Play an extra Vocals card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Loop the Loop",
+        "bpm": 90,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Fantastic",
+                "effect": "Block all Red cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Major Fall",
+        "style": "Dance/Electronic",
+        "key": "G Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Chiller",
+                "effect": "-3 points from both teams"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Minor Lift",
+        "style": "Dance/Electronic",
+        "key": "A Minor",
+        "bpm": 139,
+        "cards": [
+            {
+                "level": 1,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Chiller",
+                "effect": "+1 point for each Level 1 card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Overjoyed",
+        "key": "C Minor",
+        "bpm": 148,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "City",
+                "effect": "+1 point for each Vocals card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Pack Mentality",
+        "style": "Hip-Hop/Rap",
+        "bpm": 110,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Breaker",
+                "effect": "+1 point for each Synths card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Par De Fuerzas",
+        "key": "A Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Verdant",
+                "effect": "Play an extra card from a song on the board"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Pattern Alpha",
+        "key": "Eb Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 1,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Phase",
+                "effect": "+2 points for each Synth card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Pulsar",
+        "style": "Dance/Electronic",
+        "key": "E Minor",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Puff",
+                "effect": "+2 points for each Sampler card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Quiet Wisdom",
+        "style": "Country",
+        "key": "G Major",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Lucky",
+                "effect": "+1 point for each empty mix slot"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Racing Through",
+        "style": "Pop",
+        "key": "Ab Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Fever",
+                "effect": "Play an extra Yellow card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Roll Up",
+        "style": "Hip-Hop/Rap",
+        "key": "A Minor",
+        "bpm": 110,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Highness",
+                "effect": "Draw 1 card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Searching Within",
+        "style": "Pop",
+        "key": "F Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Derby",
+                "effect": "Search your deck for a card, draw it, then shuffle your deck"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Soaring Above",
+        "style": "Pop",
+        "key": "C Minor",
+        "bpm": 124,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Fever",
+                "effect": "+2 points for a Yellow card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Strings of Fate",
+        "style": "Rock",
+        "key": "A Major",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Blade",
+                "effect": "Play an extra Guitar card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Stylin'",
+        "style": "Rock",
+        "key": "E Minor",
+        "bpm": 122,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Socket",
+                "effect": "Play an extra Synths card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Sweet Relief",
+        "key": "C Major",
+        "bpm": 90,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Flora",
+                "effect": "Clear all opponent Synth cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Team of Horses",
+        "style": "Country",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Moonlight",
+                "effect": "Play an extra Blue card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Depths",
+        "style": "Rock",
+        "key": "Bb Minor",
+        "bpm": 140,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Ouroboros",
+                "effect": "Draw 2 cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Dominant",
+        "style": "Pop",
+        "key": "F Minor",
+        "bpm": 145,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Flawless",
+                "effect": "+2 points for each Vocals card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Heartless One",
+        "style": "Rock",
+        "key": "E Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Blade",
+                "effect": "Clear all opponent Blue cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Shoreline",
+        "style": "Rock",
+        "key": "E Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Ouroboros",
+                "effect": "+1 point for each Red card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Songstress",
+        "key": "A Minor",
+        "bpm": 90,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Rhymer",
+                "effect": "+3 points for a Strings / Drums / Horns set"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Thaumaturge",
+        "bpm": 113,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Rhymer",
+                "effect": "Draw 1 card if played on top of a Green card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "The Triumphant",
+        "style": "Pop",
+        "key": "B Minor",
+        "bpm": 145,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Flawless",
+                "effect": "+2 points for each Blue / Red pair"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Third Wave",
+        "style": "Hip-Hop/Rap",
+        "bpm": 110,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Bomb",
+                "effect": "Play an extra Strings card"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Underground",
+        "key": "A Minor",
+        "bpm": 120,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "City",
+                "effect": "Clear All Adjacent Cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Warm Up",
+        "key": "G Major",
+        "bpm": 128,
+        "cards": [
+            {
+                "level": 3,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Energy",
+                "effect": "Both players draw 2 cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "Wildin'",
+        "style": "Rock",
+        "key": "E Minor",
+        "bpm": 80,
+        "cards": [
+            {
+                "level": 1,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Socket",
+                "effect": "Clear all Green, Blue, Red, Yellow cards"
+            }
+        ]
+    },
+    {
+        "artist": "ZZZZZ",
+        "title": "With the Pack",
+        "key": "D Minor",
+        "bpm": 123,
+        "cards": [
+            {
+                "level": 2,
+                "type": "FX",
+                "instruments": [ "FX" ],
+                "playlist": "Instinct",
+                "effect": "Draw 1 card if played on top of a Yellow card"
+            }
         ]
     }
 ]

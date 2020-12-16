@@ -21,8 +21,14 @@ struct SongCardListByTypeView: View {
     VStack(spacing: 0) {
       ScrollView {
         LazyVStack {
-          ForEach(filtered(), id: \.self) {
-            SongCardView(type: .TitleFirst, song: $0.song, card: $0.card)
+          ForEach(filtered(), id: \.self) { songCard in
+            Group {
+              if songCard.song.isFX() {
+                SongFXView(songCard: songCard)
+              } else {
+                SongCardView(type: .TitleFirst, songCard: songCard)
+              }
+            }
             Divider()
           }
         }

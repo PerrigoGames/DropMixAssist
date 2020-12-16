@@ -14,7 +14,7 @@ struct SongCardListView: View {
     ScrollView {
       LazyVStack {
         ForEach(sortedList, id: \.self) {
-          SongCardView(type: .TitleFirst, song: $0.song, card: $0.card)
+          SongCardView(type: .TitleFirst, songCard: $0)
           Divider()
         }
       }
